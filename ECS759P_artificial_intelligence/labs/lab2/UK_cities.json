@@ -1,0 +1,239 @@
+{
+  "aberdeen": {
+                "aberystwyth": {"weight":427},
+                "edinburgh":   {"weight":115},
+                "penzance":    {"weight":663},
+                "portsmouth":  {"weight":550},
+                "sheffield":   {"weight":338},
+                "swansea":     {"weight":502},
+                "york":        {"weight":299}
+              },
+  "aberystwyth": {
+                "brighton":    {"weight":249} ,
+                "bristol":     {"weight":121} ,
+                "carlisle":    {"weight":219} ,
+                "dover":       {"weight":284} ,
+                "newcastle":  {"weight":254} ,
+                "nottingham": {"weight":154} ,
+                "oxford":      {"weight":156} ,
+                "penzance":    {"weight":304} ,
+                "sheffield":   {"weight":154} ,
+                "swansea":     {"weight":75} ,
+                "york":        {"weight":190}
+              },
+  "birmingham": {
+     "brighton":    {"weight":159},
+     "bristol":      {"weight":86},
+     "cambridge":    {"weight":97},
+     "cardiff":     {"weight":100},
+     "carlisle":    {"weight":198},
+     "portsmouth":  {"weight":141},
+     "sheffield":    {"weight":75},
+     "swansea":     {"weight":125},
+     "york": {"weight":125},
+     "london": {"weight":110}
+   },
+"brighton": {
+"bristol":     {"weight":136},
+"cambridge":   {"weight":106},
+"cardiff":     {"weight":183},
+"carlisle":    {"weight":354},
+"dover":        {"weight":81},
+"nottingham":  {"weight":178},
+"oxford":       {"weight":96},
+"penzance":    {"weight":277},
+"portsmouth":   {"weight":49},
+"sheffield":   {"weight":216},
+"swansea":     {"weight":236},
+"york":        {"weight":250},
+"london":       {"weight":52}
+},
+"bristol": {
+"cambridge":   {"weight":151},
+"cardiff":      {"weight":44},
+"carlisle":    {"weight":276},
+"dover":       {"weight":187},
+"edinburgh":   {"weight":369},
+"exeter":       {"weight":76},
+"glasgow":     {"weight":370},
+"hull":        {"weight":206},
+"leeds":       {"weight":195},
+"swansea":      {"weight":89},
+"york":        {"weight":211},
+"london":      {"weight":116}
+},
+"cambridge":
+{
+"cardiff":     {"weight":177},
+"carlisle":    {"weight":260},
+"dover":       {"weight":125},
+"exeter":      {"weight":216},
+"glasgow":     {"weight":354},
+"hull":        {"weight":124},
+"portsmouth":  {"weight":126},
+"sheffield":   {"weight":116},
+"swansea":     {"weight":216},
+"york":        {"weight":149},
+"london":       {"weight":54}
+},
+"cardiff":
+{
+"carlisle":    {"weight":277},
+"dover":       {"weight":232},
+"edinburgh":   {"weight":370},
+"exeter":      {"weight":119},
+"glasgow":     {"weight":371},
+"hull":        {"weight":227},
+"leeds":       {"weight":209},
+"sheffield":   {"weight":175},
+"swansea":      {"weight":45},
+"york":        {"weight":232},
+"london":      {"weight":161}
+},
+"carlisle":{
+"dover":       {"weight":373},
+"edinburgh":    {"weight":93},
+"exeter":      {"weight":352},
+"glasgow":      {"weight":94},
+"hull":        {"weight":149},
+"manchester":  {"weight":120},
+"newcastle":    {"weight":58},
+"nottingham":  {"weight":187},
+"york":        {"weight":112},
+"london":      {"weight":302}
+},
+"dover":
+{
+"exeter":      {"weight":246},
+"glasgow":     {"weight":467},
+"hull":        {"weight":243},
+"leeds":       {"weight":269},
+"portsmouth":  {"weight":130},
+"sheffield":   {"weight":235},
+"swansea":     {"weight":271},
+"york":        {"weight":269},
+"london":       {"weight":71}
+},
+"edinburgh":
+{
+"exeter":      {"weight":445},
+"glasgow":      {"weight":44},
+"hull":        {"weight":221},
+"leeds":       {"weight":195},
+"liverpool":   {"weight":211},
+"manchester":  {"weight":213},
+"newcastle":   {"weight":104},
+"nottingham":  {"weight":258},
+"york":        {"weight":184}
+},
+"exeter":
+{
+"glasgow":     {"weight":446},
+"hull":        {"weight":282},
+"leeds":       {"weight":271},
+"liverpool":   {"weight":239},
+"manchester":  {"weight":237},
+"newcastle":   {"weight":360},
+"nottingham":  {"weight":217},
+"oxford":      {"weight":136},
+"london":      {"weight":172}
+},
+"glasgow":
+{
+"hull":        {"weight":243},
+"leeds":       {"weight":211},
+"liverpool":   {"weight":212},
+"manchester":  {"weight":214},
+"newcastle":   {"weight":148},
+"nottingham":  {"weight":281},
+"oxford":      {"weight":355},
+"london":      {"weight":396}
+},
+"hull":{
+"leeds":        {"weight":58},
+"liverpool":   {"weight":122},
+"manchester":   {"weight":90},
+"newcastle":   {"weight":117},
+"nottingham":   {"weight":90},
+"oxford":      {"weight":164},
+"london":      {"weight":172}
+},
+"leeds":
+{
+"liverpool":    {"weight":73},
+"manchester":   {"weight":41},
+"newcastle":    {"weight":89},
+"nottingham":   {"weight":72},
+"swansea":     {"weight":229},
+"york":         {"weight":23},
+"london":      {"weight":198}
+},
+"liverpool":
+{
+"manchester":   {"weight":35},
+"newcastle":   {"weight":162},
+"nottingham":  {"weight":100},
+"swansea":     {"weight":166},
+"york":         {"weight":96},
+"london":      {"weight":198}
+},
+"manchester":
+{
+"newcastle":   {"weight":130},
+"nottingham":   {"weight":71},
+"oxford":      {"weight":143},
+"penzance":    {"weight":344},
+"portsmouth":  {"weight":221},
+"sheffield":    {"weight":38},
+"swansea":     {"weight":188},
+"york":         {"weight":64}
+},
+"newcastle":
+{
+"nottingham":  {"weight":155},
+"oxford":      {"weight":253},
+"penzance":    {"weight":468},
+"portsmouth":  {"weight":331},
+"sheffield":   {"weight":123},
+"swansea":     {"weight":318},
+"york":         {"weight":80}
+},
+"nottingham":
+{
+"oxford":       {"weight":98},
+"penzance":    {"weight":322},
+"portsmouth":  {"weight":176},
+"sheffield":    {"weight":38},
+"swansea":     {"weight":173},
+"york":         {"weight":80}
+},
+"oxford":
+{
+"penzance":    {"weight":250},
+"portsmouth":   {"weight":78},
+"sheffield":   {"weight":136},
+"swansea":     {"weight":145},
+"york":        {"weight":178},
+"london":       {"weight":57}
+},
+"penzance":
+{
+"portsmouth":  {"weight":242},
+"sheffield":   {"weight":348},
+"swansea":     {"weight":273},
+"york":        {"weight":398}
+},
+"portsmouth":
+{
+"sheffield":   {"weight":214},
+"york":        {"weight":256}
+},
+"sheffield":
+{
+"swansea":     {"weight":196}
+},
+"swansea":
+{
+"york":        {"weight":248}
+}
+}
